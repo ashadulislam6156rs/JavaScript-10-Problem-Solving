@@ -45,7 +45,7 @@ const FindMaximumNumber = (arr) => {
   }
   return max;
 };
-console.log(FindMaximumNumber([5, 1, 9, 3, 12]));
+// console.log(FindMaximumNumber([5, 1, 9, 3, 12]));
 
 // Problem 5: Remove Duplicates from an Array
 const RemoveDuplicateNumbers = (arr) => {
